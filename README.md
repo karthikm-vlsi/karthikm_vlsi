@@ -113,6 +113,6 @@ To build a career as a **VLSI / RTL Design Engineer**, working on digital hardwa
 
 ## 📫 Connect With Me
 
-* LinkedIn: [Add your LinkedIn]
-* Portfolio: [Add your portfolio]
+* LinkedIn: https://www.linkedin.com/in/karthik-m-8770462b2/
+* Gmail: karthik915062@gmail.com
 * GitHub: You're already here! 🚀
