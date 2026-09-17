@@ -72,7 +72,7 @@ Currently building and verifying RTL designs using **Verilog and Xilinx Vivado**
 
 ### 4. IoT Weather Monitoring System
 
-**Arduino UNO | IoT | Sensors | ThingSpeak**
+**Arduino UNO | IoT | Sensors**
 
 * Designed an IoT-based system for monitoring environmental parameters.
 * Used **DHT11** to measure temperature and humidity.
