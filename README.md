@@ -30,10 +30,10 @@ Currently building and verifying RTL designs using **Verilog and Xilinx Vivado**
 ### Programming
 
 * Verilog
-* C
+* C/C++
 * Python
 * SQL
-* HTML / CSS / JavaScript
+* Basics Of HTML / CSS / JavaScript
 
 ---
 
@@ -97,10 +97,11 @@ Currently building and verifying RTL designs using **Verilog and Xilinx Vivado**
 * FSM
 * UART / SPI / I2C
 * FIFO Design
+* ARM AMBA
 * APB Protocol
-* Computer Architecture
 * RISC-V
 * FPGA Design
+* ASIC Design 
 * RTL Verification
 
 ---
